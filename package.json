@@ -1,7 +1,7 @@
 {
   "name": "@greenlabs/rescript",
   "devDependencies": {
-    "mocha": "^7.2.0",
+    "mocha": "^10.7.3",
     "nyc": "^15.0.0"
   },
   "bin": {
